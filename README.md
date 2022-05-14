@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150"/>
+  <img src="https://avatars.githubusercontent.com/u/5774298" width="100"/>
   <div id="badges">
     <a href="https://www.linkedin.com/in/mahesh-chand/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
@@ -17,11 +17,10 @@
   </h1>
 </div>
 
-<!--
 <div align="center">
-  <img src="https://media-exp1.licdn.com/dms/image/C5603AQFHBlQixWcKNQ/profile-displayphoto-shrink_100_100/0/1517652553186?e=1657756800&v=beta&t=FAFilnIVL_Swa0gkGE_ZFrmfnmKf-aY71BHIFfigK_M" width="100" height="100"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
--->
+
 ---
 
 ### :man_technologist: About Me :
